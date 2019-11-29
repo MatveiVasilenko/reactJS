@@ -1,0 +1,1 @@
+export default (currentState = {}, newIndex = 0)
